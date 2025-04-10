@@ -64,4 +64,4 @@ cd js-my-pokedex
 
 ---
 
-👾 Projeto desenvolvido como prática de front-end vanilla com foco em consumo de API pública.
+👾 Projeto desenvolvido como prática de front-end vanilla (HTML5, CSS3, JAVASCRIPT) com foco em consumo de API pública.
