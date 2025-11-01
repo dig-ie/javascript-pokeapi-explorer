@@ -5,6 +5,12 @@ Uma Pokédex interativa que consome dados da **PokeAPI**, exibindo informações
 🔗 **Deploy:**  
 [https://diegodebarros.github.io/js-my-pokedex/](https://dig-ie.github.io/javascript-pokeapi-explorer/)
 
+## Pesquisa na poke api implementada:
+<img width="219" height="184" alt="image" src="https://github.com/user-attachments/assets/d3ae5c56-20d2-49d9-8c04-c48bcf92f2db" />
+
+
+
+
 ## ![Preview da Pokédex](image.png)
 
 ## ⚙️ Funcionalidades
@@ -28,11 +34,11 @@ A busca funciona através de **correspondência parcial** (partial matching) do 
 - Limite de 20 resultados por busca para otimização
 - Restauração automática da lista completa quando o campo é limpo
 
-**Exemplo de uso:**
+**EXEMPLOS de uso:**
 
 - Digite `"pika"` → encontra `"pikachu"`
 - Digite `"char"` → encontra `"charmander"`, `"charmeleon"`, `"charizard"`
-- Digite `"bulba"` → encontra `"bulbasaur"`
+- Digite `"bulba"` → encontra `"bulbasaur"` 
 
 #### 2. Sistema de Cache
 
