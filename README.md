@@ -2,13 +2,11 @@
 
 Uma Pokédex interativa que consome dados da **PokeAPI**, exibindo informações de diversos Pokémon em tempo real com sistema de busca flexível e otimizado.
 
-🔗 **Deploy:**  
-[https://diegodebarros.github.io/js-my-pokedex/](https://dig-ie.github.io/javascript-pokeapi-explorer/)
-
 ## Pesquisa na poke api implementada:
 <img width="219" height="184" alt="image" src="https://github.com/user-attachments/assets/d3ae5c56-20d2-49d9-8c04-c48bcf92f2db" />
 
 
+<img width="1024" height="1536" alt="pokedex" src="https://github.com/user-attachments/assets/24beb3ca-664d-4955-b13a-b1d6d52a5aa8" />
 
 
 ## ![Preview da Pokédex](image.png)
