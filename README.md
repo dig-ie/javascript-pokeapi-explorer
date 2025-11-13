@@ -1,6 +1,10 @@
-# 🔍 Pokédex com PokeAPI
+# 🔍 Pokédex com PokeAPI Mobile First
 
 Uma Pokédex interativa que consome dados da **PokeAPI**, exibindo informações de diversos Pokémon em tempo real com sistema de busca flexível e otimizado.
+
+# Link para conferir o projeto:
+
+> https://dig-ie.github.io/pokedex-JAVASCRIPT-CSS-HTML-API-pokemon/
 
 ## Pesquisa na poke api implementada:
 <img width="219" height="184" alt="image" src="https://github.com/user-attachments/assets/d3ae5c56-20d2-49d9-8c04-c48bcf92f2db" />
